@@ -1,6 +1,6 @@
 # Desafío de Clustering en Ciencia de Datos de Alura LATAM - Parte 1
 
-Este desafío corresponde a la tercera parte del Bootcamp de Ciencia de Datos de Alura LATAM, específicamente la primera parte del tercer desafío. En este proyecto, exploramos el comportamiento de los clientes de una cadena de supermercados con el objetivo de mejorar su experiencia de compra. A través de diversos análisis, buscamos identificar patrones de compra, preferencias y hábitos, utilizando esta información para ofrecer un servicio personalizado y adaptado a las necesidades de cada cliente. El método K-Means se utiliza para llevar a cabo la clusterización de los clientes.
+Este desafío corresponde a la tercera parte del Bootcamp de Ciencia de Datos de Alura LATAM, específicamente la primera parte del tercer desafío. En este proyecto, exploramos el comportamiento de los clientes de una cadena de supermercados con el objetivo de mejorar su experiencia de compra. A través de un algoritmo de clustering, buscamos identificar patrones de compra, preferencias y hábitos, utilizando esta información para ofrecer un servicio personalizado y adaptado a las necesidades de cada cliente. El método K-Means se utiliza para llevar a cabo la clusterización de los clientes.
 
 ## Desafío Dividido en 6 Partes:
 
